@@ -7,5 +7,5 @@
 
 ### the language of use / 使用言語
  - 日本語
- - English
+ - English  
 ```他の言語もそのうち着手します```
