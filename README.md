@@ -1,5 +1,5 @@
 # translate / 翻訳
-私が外国語を翻訳(誤訳)するための機構です.
+私が外国語を翻訳(誤訳)するための場所です.
 
 ### contents - 内容物
  - Translation into Jap 翻訳
